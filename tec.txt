@@ -23,3 +23,8 @@ está de acordo com as configurações do pylint
 -> 3º Passo Configurar arquivo .pre-commit-config.yaml
 -> 4º Passo Instalar pre-commit -> pre-commit install
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+.venv/Scripts/pip freeze > requirements.txt
+--Pegar libs utilizadas e jogar para arquivo requirements
+--------------------------------------------------------------------------------
