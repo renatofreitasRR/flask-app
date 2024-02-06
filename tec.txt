@@ -13,3 +13,13 @@ Analisador de código parecido com eslint
 -> 2º Passo Adicionar extensão Pylint no vscode
 -> 3º Passo Adicionar arquivo de configuração -> pylint --generate-rcfile > .pylintrc
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+pre-commit
+Basicamente analisa antes de realizar o commit para verificar se o código
+está de acordo com as configurações do pylint
+-> 1º Passo Instalar -> pip install pre-commit
+-> 2º Passo Criar arquivo com nome .pre-commit-config.yaml
+-> 3º Passo Configurar arquivo .pre-commit-config.yaml
+-> 4º Passo Instalar pre-commit -> pre-commit install
+--------------------------------------------------------------------------------
