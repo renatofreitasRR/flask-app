@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+virtualenv 
+Criação de ambientes virtuais isolados 
+-> 1º Passo Instalar -> pip install virtualenv 1º Passo
+-> 2º Passo Criar ambiente virtual -> py -m venv .venv
+-> 3º Passo Ativar ambiente virtual -> .venv\Scripts\activate
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+pylint
+Analisador de código parecido com eslint 
+-> 1º Passo Instalar -> pip install pylint 
+-> 2º Passo Adicionar extensão Pylint no vscode
+-> 3º Passo Adicionar arquivo de configuração -> pylint --generate-rcfile > .pylintrc
+--------------------------------------------------------------------------------
