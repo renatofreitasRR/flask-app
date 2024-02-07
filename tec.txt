@@ -28,3 +28,22 @@ está de acordo com as configurações do pylint
 .venv/Scripts/pip freeze > requirements.txt
 --Pegar libs utilizadas e jogar para arquivo requirements
 --------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+flask
+Biblioteca facilitar uso de api
+-> 1º Passo Instalar -> pip install Flask
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+python-barcode
+Gera código de barras
+-> 1º Passo Instalar -> pip install python-barcode
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+pillow
+Utilizado para gerar imagens
+-> 1º Passo Instalar -> pip install pillow
+--------------------------------------------------------------------------------
